@@ -8,3 +8,6 @@ echo "jjnjnsndajnd"
 echo "=====================
 gh-----------"
 hhd
+frrk
+""ff
+each "fffh"
